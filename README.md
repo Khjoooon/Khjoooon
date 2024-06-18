@@ -1,6 +1,6 @@
 ## Hi there 👋
 [![GitHub Streak](https://streak-stats.demolab.com?user=Khjoooon&theme=gruvbox-light&hide_border=true&locale=ko)](https://git.io/streak-stats)
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Khjoooon&theme=gruvbox-light&hide_border=true&locale=ko" alt="GitHub Streak" /></a>
+
 <!--
 **Khjoooon/Khjoooon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
