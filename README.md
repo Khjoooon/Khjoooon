@@ -1,7 +1,7 @@
 ## Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Khjoooon=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Khjoooon=anuraghazra&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Khjoooon=anuraghazra&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khjoooon)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khjoooon&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khjoooon&show_icons=true&theme=radical)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/Khjoooon/github-readme-stats)
 <!--
 **Khjoooon/Khjoooon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
