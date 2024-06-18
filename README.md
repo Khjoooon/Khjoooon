@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![GitHub Streak](https://streak-stats.demolab.com?user=Khjoooon&theme=onedark-duo&hide_border=%EC%B0%B8)](https://git.io/streak-stats)
+
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Khjoooon&theme=onedark-duo&hide_border=%EC%B0%B8" alt="GitHub Streak" /></a>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Khjoooon=anuraghazra&show_icons=true&theme=radical)
 <!--
