@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Khjoooon&theme=onedark-duo&hide_border=%EC%B0%B8" alt="GitHub Streak" /></a>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Khjoooon=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Khjoooon=anuraghazra&count_private=true)
 <!--
 **Khjoooon/Khjoooon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
