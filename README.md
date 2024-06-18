@@ -2,6 +2,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Khjoooon&theme=gruvbox-light&hide_border=true&locale=ko)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khjoooon)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khjoooon)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khjoooon&show_icons=true)
 <!--
 **Khjoooon/Khjoooon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
